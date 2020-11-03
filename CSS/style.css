@@ -77,6 +77,10 @@ body{
     font-size: 13px;
 }
 
+a.soclink{
+    text-decoration: none;
+}
+
 .contact .li_wrap{
     display: flex;
     align-items: center;
@@ -222,4 +226,5 @@ body{
 
 .submission{
     margin-top: 10px;
+    padding: 10px; 
 }
